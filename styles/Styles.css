@@ -1,0 +1,50 @@
+html{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+body {
+    background-color: #148785;
+    
+}
+h1{
+    font-size: 1.6rem;
+    text-align: center;
+    color:  #ede53b;
+}
+
+form{
+    display: flex;
+    align-items: center;
+}
+#search{
+    padding: .3rem;
+    margin: 1rem auto;
+    max-width: 50%;
+    width: 30rem;
+  border-radius:1rem ;
+  background-color: #FFF;
+    
+}
+#search::placeholder{
+    text-align: center;
+    opacity: .7;
+}
+
+#search:focus{
+   outline: 2px solid #000;
+    
+}
+#restaurant-gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    height: 100%;
+}
+.Restos{
+    border: solid .5rem #FFF;
+    height: 190px ;
+    width: auto;
+}
+
+@media screen and (min-width: 340px){
+        h1{font-size: 2rem;}
+}
+    

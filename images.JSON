@@ -1,0 +1,12 @@
+[
+  { "name": "Barcelona", "url": "./images/barcelona.png" },
+  { "name": "Buenos Aires", "url": "./images/buenos-aires.jpg" },
+  { "name": "Madrid", "url": "./images/madrid.jpg" },
+  { "name": "Miami", "url": "./images/miami.jpg" },
+  { "name": "Paris", "url": "./images/paris.jpg" },
+  { "name": "Pipa", "url": "./images/pipa.jpg" },
+  { "name": "Rio de Janeiro", "url": "./images/rio-de-janeiro.jpg" },
+  { "name": "Roma", "url": "./images/roma.jpg" },
+  { "name": "Rosario", "url": "./images/rosario.jpg" },
+  { "name": "Tokio", "url": "./images/tokio.jpg" }
+]
